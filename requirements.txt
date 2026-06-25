@@ -3,3 +3,6 @@ flask-mail
 itsdangerous
 werkzeug
 pytest
+python-dotenv
+opencv-python-headless
+ultralytics
